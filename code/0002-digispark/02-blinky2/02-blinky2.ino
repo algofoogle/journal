@@ -12,5 +12,7 @@ void setup() {
 void loop() {
   delay(PERIOD/2);
   // Toggle pin state:
-  digitalWrite(LED, ~digitalRead(LED));
+  digitalWrite(LED, !digitalRead(LED));
+  //NOTE: I tried `~digitalRead(LED)` (i.e. complement of read value)
+  // but this is not how digitalRead() and digitalWrite() are designed to be used.
 }
