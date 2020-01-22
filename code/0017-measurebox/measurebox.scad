@@ -4,7 +4,7 @@ $fa = 5;
 $fn = 20;
 
 // Box window dimensions, X/Y/Z:
-window = [200,200,20];
+window = [180,180,20];
 
 // Lip is how wide the ruler edges is, extending beyond the dimensions of the window:
 lip = 5;
@@ -34,10 +34,10 @@ union() {
         translate([window[0],window[1],0]) translate([lip,lip,0]) rotate([0,0,180]) ruler(window[0], lip);
       }
       // Etch the number of dots that our maximum ruler extent is at 600dpi:
-      translate([window[0]+lip*1.8,window[1]+lip*1.1,-0.1])
+      translate([window[0]+lip*1.78,window[1]+lip*1.06,-0.1])
         linear_extrude(height=shell*0.25, convexity=4)
           rotate([0,180,0]) rotate([0,0,45])
-            text(str(round(200/25.4*600)), size=lip/3, font="Arial");
+            text(str(round(window[0]/25.4*600)), size=lip/3, font="Arial");
     }
   }
   // Create the 4 stacking holes:
@@ -78,7 +78,7 @@ module ruler(length, depth, flip=false) {
       rotate([0,45,0]) translate([0,(depth-t)/2,0]) cube([0.4,t,0.4],center=true);
       if (p%10==0) {
         rotate([0,180,0])
-          translate([1,-depth/2,-0.1]) //0.1 down to avoid CSG overlaps.
+          translate([1,-depth/2.2,-shell*0.25+0.1]) //0.1 down to avoid CSG overlaps.
             linear_extrude(height=shell*0.25, convexity=4)
               if (flip) translate([-2,0,0]) text(flip ? str(length-p) : str(p), size=depth/2, font="Arial", halign="right");
               else text(flip ? str(length-p) : str(p), size=depth/2, font="Arial");
