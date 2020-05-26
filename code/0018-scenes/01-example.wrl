@@ -1,0 +1,57 @@
+#VRML V2.0 utf8
+
+# This example comes from:
+# http://gun.teipir.gr/VRML-amgem/spec/part1/examples.html
+
+PROTO TwoColorStool [ field SFColor legColor  .8 .4 .7
+                      field SFColor seatColor .6 .6 .1 ]
+{
+  Transform {
+    children [
+      Transform {   # stool seat
+       translation 0 0.6 0
+        children
+          Shape {
+            appearance Appearance {
+              material Material { diffuseColor IS seatColor }
+            }
+            geometry Box { size 1.2 0.2 1.2 }
+          }
+      }
+
+      Transform {   # first stool leg
+       translation -.5 0 -.5
+        children
+          DEF Leg Shape {
+            appearance Appearance {
+              material Material { diffuseColor IS legColor }
+            }
+            geometry Cylinder { height 1 radius .1 }
+          }
+      }
+      Transform {   # another stool leg
+       translation .5 0 -.5
+        children USE Leg
+      }
+      Transform {   # another stool leg
+       translation -.5 0 .5
+        children USE Leg
+      }
+      Transform {   # another stool leg
+       translation .5 0 .5
+        children USE Leg
+      }
+    ] # End of root Transform's children
+  } # End of root Transform
+} # End of prototype
+
+# The prototype is now defined. Although it contains a number of nodes,
+# only the legColor and seatColor fields are public. Instead of using the
+# default legColor and seatColor, this instance of the stool has red legs
+# and a green seat:
+
+
+TwoColorStool {
+  legColor 1 0 0 seatColor 0 1 0
+}
+NavigationInfo { type "EXAMINE" }      # Use the Examine viewer
