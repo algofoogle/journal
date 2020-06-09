@@ -1,3 +1,4 @@
 .vscode
 .*.un~
+.DS_Store
 
