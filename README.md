@@ -47,3 +47,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 ## 2023
 
 *   [0061-2023-04-16.md](./0061-2023-04-16.md): ASIC stuff with a focus on ray casting.
+*   [0062-2023-04-17.md](./0062-2023-04-17.md): 
