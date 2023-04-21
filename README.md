@@ -49,3 +49,5 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0061-2023-04-16.md](./0061-2023-04-16.md): ASIC stuff with a focus on ray casting.
 *   [0062-2023-04-17.md](./0062-2023-04-17.md): Fiddling with Raybox ideas.
 *   [0063-2023-04-18.md](./0063-2023-04-18.md): Mostly notes about Verilog division and reciprocals.
+*   [0064-2023-04-21.md](./0064-2023-04-21.md): Summary of basic fake rendering stuff, and a basic plan for what comes next.
+
