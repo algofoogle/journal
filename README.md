@@ -54,3 +54,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0066-2023-04-26.md](./0066-2023-04-26.md): Lots of notes about TT03 and running Tiny Tapeout GDS build locally
 *   [0067-2023-04-27.md](./0067-2023-04-27.md): Some more quick notes about TT03
 *   [0068-2023-04-28.md](./0068-2023-04-28.md): Starting fixed-point mode in raybox-app. Notes on VSCode C++ debugging.
+*   [0069-2023-04-29.md](./0069-2023-04-29.md): Running Raybox on an FPGA.
