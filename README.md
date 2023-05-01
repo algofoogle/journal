@@ -56,3 +56,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0068-2023-04-28.md](./0068-2023-04-28.md): Starting fixed-point mode in raybox-app. Notes on VSCode C++ debugging.
 *   [0069-2023-04-29.md](./0069-2023-04-29.md): Running Raybox on an FPGA.
 *   [0070-2023-04-30.md](./0070-2023-04-30.md): Raybox starting Q16.16. Other future ideas.
+*   [0071-2023-05-01.md](./0071-2023-05-01.md): Raybox wall edge glitch fixed! Q16.16 working. What next?
