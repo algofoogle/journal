@@ -59,4 +59,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0071-2023-05-01.md](./0071-2023-05-01.md): Raybox wall edge glitch fixed! Q16.16 working. What next?
 *   [0072-2023-05-02.md](./0072-2023-05-02.md): Raybox map grid boundary glitch fixed.
 *   [0073-2023-05-03.md](./0073-2023-05-03.md): Raybox LZC alternatives. Rotation issues.
-*   [0074-2023-05-04.md](./0074-2023-05-04.md): Ideas to diagnose/fix Raybox on FPGA.
+*   [0074-2023-05-04.md](./0074-2023-05-04.md): Diagnosing/fixing Raybox on FPGA.
