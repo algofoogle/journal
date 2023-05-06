@@ -60,3 +60,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0072-2023-05-02.md](./0072-2023-05-02.md): Raybox map grid boundary glitch fixed.
 *   [0073-2023-05-03.md](./0073-2023-05-03.md): Raybox LZC alternatives. Rotation issues.
 *   [0074-2023-05-04.md](./0074-2023-05-04.md): Diagnosing/fixing Raybox on FPGA.
+*   [0075-2023-05-06.md](./0075-2023-05-06.md): Notes for some Raybox stuff to look at next
