@@ -64,3 +64,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0076-2023-05-07.md](./0076-2023-05-07.md): Raybox axis glitch fixed? Other ideas for host control
 *   [0077-2023-05-09.md](./0077-2023-05-09.md): Raybox sim builds under Windows now and supports mouse rotation.
 *   [0078-2023-05-10.md](./0078-2023-05-10.md): Raybox wall textures, thoughts on RAM
+*   [0079-2023-05-12.md](./0079-2023-05-12.md): Raybox improved column rendering/scaling
