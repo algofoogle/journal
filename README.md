@@ -67,3 +67,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0079-2023-05-12.md](./0079-2023-05-12.md): Raybox improved column rendering/scaling
 *   [0080-2023-05-16.md](./0080-2023-05-16.md): Raybox starting work on sprites
 *   [0081-2023-05-20.md](./0081-2023-05-20.md): First Raybox sprite seems to project OK
+*   [0082-2023-05-22.md](./0082-2023-05-22.md): Raybox sprite extra scaling and screen 640-width
