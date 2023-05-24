@@ -69,3 +69,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0081-2023-05-20.md](./0081-2023-05-20.md): First Raybox sprite seems to project OK
 *   [0082-2023-05-22.md](./0082-2023-05-22.md): Raybox sprite extra scaling and screen 640-width
 *   [0083-2023-05-23.md](./0083-2023-05-23.md): Tidying Raybox for targeting OpenLane
+*   [0084-2023-05-24.md](./0084-2023-05-24.md): Merged Raybox sprites branch. Notes on OpenLane.
