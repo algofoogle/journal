@@ -72,3 +72,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0084-2023-05-24.md](./0084-2023-05-24.md): Merged Raybox sprites branch. Notes on OpenLane.
 *   [0085-2023-05-25.md](./0085-2023-05-25.md): Raybox 64x64 map with multiple wall types supported
 *   [0086-2023-05-26.md](./0086-2023-05-26.md): Quick notes on ideas for sending data to the FPGA
+*   [0087-2023-05-27.md](./0087-2023-05-27.md): OpenLane experiments with reciprocal approximation design
