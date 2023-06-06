@@ -75,3 +75,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0087-2023-05-27.md](./0087-2023-05-27.md): OpenLane experiments with reciprocal approximation design
 *   [0088-2023-05-28.md](./0088-2023-05-28.md): Quick notes about LZC and cocotb
 *   [0089-2023-06-05.md](./0089-2023-06-05.md): Notes about solo_squash tt03p5 submission
+*   [0090-2023-06-06.md](./0090-2023-06-06.md): PC to DE0-Nano bridging ideas inc. IO expanders
