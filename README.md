@@ -14,6 +14,9 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 <summary>Click to open:</summary>
 
 *   [0001-2019-11-28.md](./0001-2019-11-28.md): Digispark tiny Arduino-based minimal USB device.
+*   [0002-2019-12-02.md](./0002-2019-12-02.md): Digispark code experiments, Arduino basics, system requirements.
+*   [0003-2019-12-03.md](./0003-2019-12-03.md): Digispark virtual keyboard experiments.
+*   [0004-2019-12-04.md](./0004-2019-12-04.md): Stuff about installing Arduino libs.
 *   ...TBC...
 *   [0009-2019-12-19.md](./0009-2019-12-19.md): Quick update re DigiCDC (more minimal USB stuff).
 </details>
@@ -26,6 +29,10 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 
 *   [0010-2020-01-06.md](./0010-2020-01-06.md): Blender 3D SVG path offset extrusion, i.e. Straight Skeleton.
 *   [0011-2020-01-07.md](./0011-2020-01-07.md): Geeetech A10 3D printer bed adhesion notes.
+*   ...TBC...
+*   [0022-2020-05-26.md](./0022-2020-05-26.md): CPLD board, KiCad notes, Xilinx ISE Webpack.
+*   ...TBC...
+*   [0025-2020-06-04.md](./0025-2020-06-04.md): NES Dev board ideas and some thoughts on STM32 types, speed, overclocking.
 *   ...TBC...
 *   [0049-2020-08-02.md](./0049-2020-08-02.md): CPLD t09d: ROM-based tile map VGA renderer.
 *   [0050-2020-08-03.md](./0050-2020-08-03.md): Verilator and vgasim.
@@ -76,3 +83,5 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0088-2023-05-28.md](./0088-2023-05-28.md): Quick notes about LZC and cocotb
 *   [0089-2023-06-05.md](./0089-2023-06-05.md): Notes about solo_squash tt03p5 submission
 *   [0090-2023-06-06.md](./0090-2023-06-06.md): PC to DE0-Nano bridging ideas inc. IO expanders
+*   [0091-2023-06-07.md](./0091-2023-06-07.md): Notes about STM32 USB and virtual COM
+
