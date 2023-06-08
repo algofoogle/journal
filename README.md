@@ -84,4 +84,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0089-2023-06-05.md](./0089-2023-06-05.md): Notes about solo_squash tt03p5 submission
 *   [0090-2023-06-06.md](./0090-2023-06-06.md): PC to DE0-Nano bridging ideas inc. IO expanders
 *   [0091-2023-06-07.md](./0091-2023-06-07.md): Notes about STM32 USB and virtual COM
-
+*   [0092-2023-06-08.md](./0092-2023-06-08.md): STM32 vs Raspberry Pi Pico
