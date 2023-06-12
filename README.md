@@ -86,3 +86,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0091-2023-06-07.md](./0091-2023-06-07.md): Notes about STM32 USB and virtual COM
 *   [0092-2023-06-08.md](./0092-2023-06-08.md): STM32 vs Raspberry Pi Pico
 *   [0093-2023-06-09.md](./0093-2023-06-09.md): Follow along with Pi Pico C SDK guide
+*   [0094-2023-06-12.md](./0094-2023-06-12.md): Pi Pico to DE0-Nano pin mapping
