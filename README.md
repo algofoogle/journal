@@ -30,9 +30,20 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0010-2020-01-06.md](./0010-2020-01-06.md): Blender 3D SVG path offset extrusion, i.e. Straight Skeleton.
 *   [0011-2020-01-07.md](./0011-2020-01-07.md): Geeetech A10 3D printer bed adhesion notes.
 *   ...TBC...
+*   [0021-2020-05-24.md](./0021-2020-05-24.md): FPGA/Verilog getting started; XC9572 CPLD board design initial notes.
 *   [0022-2020-05-26.md](./0022-2020-05-26.md): CPLD board, KiCad notes, Xilinx ISE Webpack.
-*   ...TBC...
+*   [0023-2020-05-29.md](./0023-2020-05-29.md): Lab setup, XC9572XL CPLD board prep notes.
+*   [0024-2020-06-02.md](./0024-2020-06-02.md): Quick notes about JLCPCB and other PCB ideas.
 *   [0025-2020-06-04.md](./0025-2020-06-04.md): NES Dev board ideas and some thoughts on STM32 types, speed, overclocking.
+*   [0026-2020-06-06.md](./0026-2020-06-06.md): Initial tests of DP's XC9572XL CPLD board, Bus Pirate, XSVF player, JTAG.
+*   [0027-2020-06-08.md](./0027-2020-06-08.md): Quick notes on my CPLD board, Xilinx ISE on Linux.
+*   [0028-2020-06-09.md](./0028-2020-06-09.md): More Xilinx ISE and PACE stuff. Success!
+*   [0029-2020-06-15.md](./0029-2020-06-15.md): Following fpga4fun.com on my CPLD board.
+*   [0030-2020-06-17.md](./0030-2020-06-17.md): test05f/g/h (music) designs, and working around ISE/Fitter/Synth bugs.
+*   [0031-2020-06-19.md](./0031-2020-06-19.md): test05h: Calculating notes.
+*   [0032-2020-06-20.md](./0032-2020-06-20.md): CPLD optimisation/fitting and more music box stuff.
+*   [0033-2020-06-21.md](./0033-2020-06-21.md): Quick note about starting a Pong-like design.
+*   [0034-2020-06-22.md](./0034-2020-06-22.md): Basic VGA output working from by XC9572XL CPLD board.
 *   ...TBC...
 *   [0049-2020-08-02.md](./0049-2020-08-02.md): CPLD t09d: ROM-based tile map VGA renderer.
 *   [0050-2020-08-03.md](./0050-2020-08-03.md): Verilator and vgasim.
