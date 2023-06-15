@@ -27,6 +27,8 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 <details>
 <summary>Click to open:</summary>
 
+### A lot of 2020 was about FPGA/CPLD/Verilog stuff, starting with entry `0022`
+
 *   [0010-2020-01-06.md](./0010-2020-01-06.md): Blender 3D SVG path offset extrusion, i.e. Straight Skeleton.
 *   [0011-2020-01-07.md](./0011-2020-01-07.md): Geeetech A10 3D printer bed adhesion notes.
 *   ...TBC...
