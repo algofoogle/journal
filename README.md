@@ -101,4 +101,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0093-2023-06-09.md](./0093-2023-06-09.md): Follow along with Pi Pico C SDK guide
 *   [0094-2023-06-12.md](./0094-2023-06-12.md): Pi Pico to DE0-Nano pin mapping
 *   [0095-2023-06-14.md](./0095-2023-06-14.md): Pi Pico stdio coding on Wokwi
-*   [0096-2023-06-17.md](./0096-2023-06-17.md): Getting Pico-DE0 REPL working just for GPIO reads*   [0097-2023-06-17.md](./0097-2023-06-17.md): 
+*   [0096-2023-06-17.md](./0096-2023-06-17.md): Getting Pico-DE0 REPL working just for GPIO reads
