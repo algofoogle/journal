@@ -4,7 +4,7 @@ NEXT := $(shell printf '%04d' `expr $(LAST) + 1`)
 STAMP := $(shell date +%F)
 TODAY := $(shell date +'%-d %b %Y')
 NEXTFILE := $(NEXT)-$(STAMP).md
-NEXTFILELINK := $(shell echo '[**')$(NEXT)$(shell echo '**')-$(STAMP).md](./$(NEXTFILE))
+NEXTFILESEDLINK := $(shell echo '[**')$(NEXT)$(shell echo '**')-$(STAMP).md](.\/$(NEXTFILE))
 
 new:
 	@echo '*   ['$(NEXTFILE)'](./'$(NEXTFILE)'): ' >> README.md
@@ -16,7 +16,7 @@ new:
 	@echo "| [$(PREVIOUS)](./$(PREVIOUS)) | *Next journal TBA* |" | sed -re "s/\[([0-9]{4})-/[**\1**-/" >> $(NEXTFILE)
 	@echo "Created: $(NEXTFILE)"
 	@echo "Updating chain in $(PREVIOUS):"
-	@sed -i -re "s/[*]Next journal TBA[*]/$(NEXTFILELINK)/" $(PREVIOUS)
+	@sed -i -re "s/[*]Next journal TBA[*]/$(NEXTFILESEDLINK)/" $(PREVIOUS)
 	@fgrep "$(NEXTFILE)" $(PREVIOUS)
 
 .PHONY: new
