@@ -103,3 +103,5 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0095-2023-06-14.md](./0095-2023-06-14.md): Pi Pico stdio coding on Wokwi
 *   [0096-2023-06-17.md](./0096-2023-06-17.md): Getting Pico-DE0 REPL working just for GPIO reads
 *   [0097-2023-06-18.md](./0097-2023-06-18.md): Pico-DE0 firmware supports basic I/O control now
+*   [0098-2023-06-19.md](./0098-2023-06-19.md): Pico-DE0 improvements and readying for Raybox IO
+
