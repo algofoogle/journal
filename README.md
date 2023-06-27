@@ -109,3 +109,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0101-2023-06-22.md](./0101-2023-06-22.md): Working on raybox-bridge
 *   [0102-2023-06-25.md](./0102-2023-06-25.md): Raybox-bridge time scheduling and USB transfer
 *   [0103-2023-06-26.md](./0103-2023-06-26.md): Quick raybox-bridge notes and next steps
+*   [0104-2023-06-27.md](./0104-2023-06-27.md): FPGA vga_cursor design works with raybox-bridge. Quartus project notes.
