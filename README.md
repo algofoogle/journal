@@ -112,3 +112,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0104-2023-06-27.md](./0104-2023-06-27.md): FPGA vga_cursor design works with raybox-bridge. Quartus project notes.
 *   [0105-2023-06-29.md](./0105-2023-06-29.md): vga_cursor initial test findings
 *   [0106-2023-06-30.md](./0106-2023-06-30.md): Quick update on vga_cursor with circle-cursor test
+*   [0107-2023-07-02.md](./0107-2023-07-02.md): Notes on changing vga_cursor to SPI
