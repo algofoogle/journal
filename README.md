@@ -115,4 +115,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0107-2023-07-02.md](./0107-2023-07-02.md): Notes on changing vga_cursor to SPI
 *   [0108-2023-07-03.md](./0108-2023-07-03.md): vga_cursor now works via SPI
 *   [0109-2023-07-06.md](./0109-2023-07-06.md): PicoDeo SPI /cursor command with raybox-bridge support
-*   [0110-2023-07-07.md](./0110-2023-07-07.md): Raybox: DE0-Nano builds again. Windows Verilator notes.
+*   [0110-2023-07-07.md](./0110-2023-07-07.md): Raybox: DE0-Nano builds again. PicoDeo /rbvectors. Windows Verilator notes.
