@@ -117,3 +117,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0109-2023-07-06.md](./0109-2023-07-06.md): PicoDeo SPI /cursor command with raybox-bridge support
 *   [0110-2023-07-07.md](./0110-2023-07-07.md): Raybox: DE0-Nano builds again. PicoDeo /rbvectors. Windows Verilator notes.
 *   [0111-2023-07-10.md](./0111-2023-07-10.md): raybox-bridge basic FPS game state tracking
+*   [0112-2023-07-11.md](./0112-2023-07-11.md): raybox-bridge sends actual /rbvectors
