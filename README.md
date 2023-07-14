@@ -120,3 +120,5 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0112-2023-07-11.md](./0112-2023-07-11.md): raybox-bridge sends vector (view) data, enabling KB/Mouse control in Raybox
 *   [0113-2023-07-12.md](./0113-2023-07-12.md): Starting BOOP! game for Lily
 *   [0114-2023-07-13.md](./0114-2023-07-13.md): Notes on next steps for Raybox
+*   [0115-2023-07-14.md](./0115-2023-07-14.md): Quick notes on VGA DAC and 2D grid collision detection
+
