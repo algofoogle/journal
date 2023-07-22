@@ -124,3 +124,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0116-2023-07-16.md](./0116-2023-07-16.md): raybox-game with basic collision detection
 *   [0117-2023-07-18.md](./0117-2023-07-18.md): Thoughts on targeting Tiny Tapeout with Raybox
 *   [0118-2023-07-19.md](./0118-2023-07-19.md): Some TT04 ideas
+*   [0119-2023-07-22.md](./0119-2023-07-22.md): Let's get started with TT04
