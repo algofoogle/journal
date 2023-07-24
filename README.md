@@ -125,3 +125,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0117-2023-07-18.md](./0117-2023-07-18.md): Thoughts on targeting Tiny Tapeout with Raybox
 *   [0118-2023-07-19.md](./0118-2023-07-19.md): Some TT04 ideas
 *   [0119-2023-07-22.md](./0119-2023-07-22.md): Let's get started with TT04
+*   [0120-2023-07-24.md](./0120-2023-07-24.md): tt04-solo-squash next steps
