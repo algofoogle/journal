@@ -129,3 +129,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0121-2023-07-26.md](./0121-2023-07-26.md): Setting up tt04-solo-squash to use solo_squash submodule
 *   [0122-2023-07-27.md](./0122-2023-07-27.md): tt04-solo-squash stuff
 *   [0123-2023-08-14.md](./0123-2023-08-14.md): Quick update re raybox-zero
+*   [0124-2023-08-16.md](./0124-2023-08-16.md): Another quick raybox-zero update
