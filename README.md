@@ -133,3 +133,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0125-2023-08-18.md](./0125-2023-08-18.md): raybox-zero tracing works
 *   [0126-2023-08-19.md](./0126-2023-08-19.md): tt04-raybox-zero started, but gds hardening crashes
 *   [0127-2023-08-20.md](./0127-2023-08-20.md): Exploring tt04-raybox-zero synthesis, chasing yosys-abc bug
+*   [0128-2023-08-21.md](./0128-2023-08-21.md): Starting tt04-reciprocal test
