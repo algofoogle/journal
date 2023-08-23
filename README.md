@@ -135,3 +135,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0127-2023-08-20.md](./0127-2023-08-20.md): Exploring tt04-raybox-zero synthesis, chasing yosys-abc bug
 *   [0128-2023-08-21.md](./0128-2023-08-21.md): Starting tt04-reciprocal test
 *   [0129-2023-08-22.md](./0129-2023-08-22.md): tt04-reciprocal findings and next steps on yosys-abc bug hunt
+*   [0130-2023-08-23.md](./0130-2023-08-23.md): More yosys-abc bug hunting
