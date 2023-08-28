@@ -140,4 +140,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0132-2023-08-25.md](./0132-2023-08-25.md): tt04-raybox-zero harden_test.sh script for stats
 *   [0133-2023-08-26.md](./0133-2023-08-26.md): Setting up MPW8 VM again on a new laptop
 *   [0134-2023-08-27.md](./0134-2023-08-27.md): raybox-zero SPI access to pov
-*   [0135-2023-08-28.md](./0135-2023-08-28.md): raybox-zero sim kb/mouse control
+*   [0135-2023-08-28.md](./0135-2023-08-28.md): raybox-zero sim kb/mouse control and partial POV SPI synth success
