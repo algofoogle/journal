@@ -143,3 +143,6 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0135-2023-08-28.md](./0135-2023-08-28.md): raybox-zero sim kb/mouse control and partial POV SPI synth success
 *   [0136-2023-08-29.md](./0136-2023-08-29.md): Working on wall_tracer changes
 *   [0137-2023-08-30.md](./0137-2023-08-30.md): raybox-zero: Merging height_scaler
+*   [0138-2023-08-31.md](./0138-2023-08-31.md): raybox-zero: Minor update
+*   [0139-2023-09-01.md](./0139-2023-09-01.md): Improved harden_test, more test results
+*   [0140-2023-09-02.md](./0140-2023-09-02.md): raybox-zero test005: Shared multiplier is a winner?
