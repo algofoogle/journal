@@ -146,3 +146,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0138-2023-08-31.md](./0138-2023-08-31.md): raybox-zero: Minor update
 *   [0139-2023-09-01.md](./0139-2023-09-01.md): Improved harden_test, more test results
 *   [0140-2023-09-02.md](./0140-2023-09-02.md): raybox-zero test005: Shared multiplier is a winner?
+*   [0141-2023-09-03.md](./0141-2023-09-03.md): test006
