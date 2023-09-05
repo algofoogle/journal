@@ -148,3 +148,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0140-2023-09-02.md](./0140-2023-09-02.md): raybox-zero test005: Shared multiplier is a winner?
 *   [0141-2023-09-03.md](./0141-2023-09-03.md): test006: shmul registered inputs; test007 reg rcp_in
 *   [0142-2023-09-04.md](./0142-2023-09-04.md): test008: put a shmul in rcp and mainline test005
+*   [0143-2023-09-05.md](./0143-2023-09-05.md): test009: reducing pov bit ranges
