@@ -151,3 +151,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0143-2023-09-05.md](./0143-2023-09-05.md): test009 (reducing pov bit ranges); test010 (fixed-point use Q10.10)
 *   [0144-2023-09-06.md](./0144-2023-09-06.md): Work on implementing textures
 *   [0145-2023-09-08.md](./0145-2023-09-08.md): Notes during TT04 final submission
+*   [0146-2023-09-26.md](./0146-2023-09-26.md): VGA DAC PCB
