@@ -152,3 +152,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0144-2023-09-06.md](./0144-2023-09-06.md): Work on implementing textures
 *   [0145-2023-09-08.md](./0145-2023-09-08.md): Notes during TT04 final submission
 *   [0146-2023-09-26.md](./0146-2023-09-26.md): VGA DAC PCB
+*   [0147-2023-09-27.md](./0147-2023-09-27.md): What next: TT05 etc.
