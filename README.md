@@ -154,3 +154,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0146-2023-09-26.md](./0146-2023-09-26.md): VGA DAC PCB
 *   [0147-2023-09-27.md](./0147-2023-09-27.md): What next: TT05 etc.
 *   [0148-2023-09-28.md](./0148-2023-09-28.md): General updates, looking into VM speed
+*   [0149-2023-09-30.md](./0149-2023-09-30.md): SPI flash ROM stuff
