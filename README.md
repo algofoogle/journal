@@ -155,4 +155,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0147-2023-09-27.md](./0147-2023-09-27.md): What next: TT05 etc.
 *   [0148-2023-09-28.md](./0148-2023-09-28.md): General updates, looking into VM speed
 *   [0149-2023-09-30.md](./0149-2023-09-30.md): SPI flash ROM stuff
-*   [0150-2023-10-02.md](./0150-2023-10-02.md): Reading/writing SPI flash ROM using Bus Pirate
+*   [0150-2023-10-02.md](./0150-2023-10-02.md): Reading SPI flash ROM using Bus Pirate
