@@ -158,3 +158,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0150-2023-10-02.md](./0150-2023-10-02.md): Reading SPI flash ROM using Bus Pirate
 *   [0151-2023-10-03.md](./0151-2023-10-03.md): More SPI flash ROM stuff
 *   [0152-2023-10-04.md](./0152-2023-10-04.md): Preparing for SPI flash ROM cocotb tests
+*   [0153-2023-10-06.md](./0153-2023-10-06.md): SPI flash ROM FPGA tests
