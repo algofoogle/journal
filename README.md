@@ -160,3 +160,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0152-2023-10-04.md](./0152-2023-10-04.md): Preparing for SPI flash ROM cocotb tests
 *   [0153-2023-10-06.md](./0153-2023-10-06.md): SPI flash ROM FPGA tests
 *   [0154-2023-10-07.md](./0154-2023-10-07.md): More SPI stuff
+*   [0155-2023-10-09.md](./0155-2023-10-09.md): Continuing SPI test design
