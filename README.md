@@ -162,3 +162,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0154-2023-10-07.md](./0154-2023-10-07.md): More SPI stuff
 *   [0155-2023-10-09.md](./0155-2023-10-09.md): tt05-vga-spi-rom TT05 submission
 *   [0156-2023-10-10.md](./0156-2023-10-10.md): tt05-vga-spi-rom improvements
+*   [0157-2023-10-11.md](./0157-2023-10-11.md): tt05-vga-spi-rom and cocotb stuff
