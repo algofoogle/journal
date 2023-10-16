@@ -165,3 +165,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0157-2023-10-11.md](./0157-2023-10-11.md): tt05-vga-spi-rom and cocotb stuff
 *   [0158-2023-10-13.md](./0158-2023-10-13.md): A bunch of tt05vsr (tt05-vga-spi-rom) tests
 *   [0159-2023-10-14.md](./0159-2023-10-14.md): Continuing tt05vsr (tt05-vga-spi-rom) tests
+*   [0160-2023-10-16.md](./0160-2023-10-16.md): Work on raybox-zero update for chipIgnite
