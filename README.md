@@ -168,3 +168,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0160-2023-10-16.md](./0160-2023-10-16.md): Work on raybox-zero update for chipIgnite
 *   [0161-2023-10-17.md](./0161-2023-10-17.md): Lots of chipIgnite notes
 *   [0162-2023-10-20.md](./0162-2023-10-20.md): raybox-zero textures from external ROM
+*   [0163-2023-10-22.md](./0163-2023-10-22.md): Working on QSPI
