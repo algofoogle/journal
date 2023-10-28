@@ -171,3 +171,6 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0163-2023-10-22.md](./0163-2023-10-22.md): Working on QSPI
 *   [0164-2023-10-23.md](./0164-2023-10-23.md): Implementing QSPI in tt05vsr and raybox-zero
 *   [0165-2023-10-24.md](./0165-2023-10-24.md): raybox-zero OpenLane hardening
+*   [0166-2023-10-26.md](./0166-2023-10-26.md): Preparing for chipIgnite
+*   [0167-2023-10-27.md](./0167-2023-10-27.md): More prep for chipIgnite
+*   [0168-2023-10-28.md](./0168-2023-10-28.md): Again more prep for chipIgnite
