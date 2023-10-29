@@ -174,3 +174,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0166-2023-10-26.md](./0166-2023-10-26.md): Preparing for chipIgnite
 *   [0167-2023-10-27.md](./0167-2023-10-27.md): More prep for chipIgnite
 *   [0168-2023-10-28.md](./0168-2023-10-28.md): Again more prep for chipIgnite
+*   [0169-2023-10-30.md](./0169-2023-10-30.md): Snippets for other modes of top_ew_algofoogle
