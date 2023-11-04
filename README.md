@@ -177,3 +177,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0169-2023-10-30.md](./0169-2023-10-30.md): Snippets for other modes of top_ew_algofoogle
 *   [0170-2023-10-31.md](./0170-2023-10-31.md): top_ew_algofoogle next steps
 *   [0171-2023-11-03.md](./0171-2023-11-03.md): Getting down to the final steps for chipIgnite
+*   [0172-2023-11-04.md](./0172-2023-11-04.md): Some fixes to raybox-zero-caravel
