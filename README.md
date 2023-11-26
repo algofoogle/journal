@@ -178,3 +178,6 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0170-2023-10-31.md](./0170-2023-10-31.md): top_ew_algofoogle next steps
 *   [0171-2023-11-03.md](./0171-2023-11-03.md): Getting down to the final steps for chipIgnite
 *   [0172-2023-11-04.md](./0172-2023-11-04.md): Some fixes to raybox-zero-caravel
+*   [0173-2023-11-18.md](./0173-2023-11-18.md): Analog start: installing xschem
+*   [0174-2023-11-19.md](./0174-2023-11-19.md): sky130 analog simulation with xschem
+*   [0175-2023-11-20.md](./0175-2023-11-20.md): More xschem and sky130
