@@ -184,3 +184,5 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0176-2023-11-22.md](./0176-2023-11-22.md): Tiny update re xschem/sky130
 *   [0177-2023-11-27.md](./0177-2023-11-27.md): GFMPW-1 test (gf180mcu)
 *   [0178-2023-11-28.md](./0178-2023-11-28.md): GFMPW-1 attempt at raybox-zero
+*   [0179-2023-11-30.md](./0179-2023-11-30.md): Quick update re GFMPW-1 attempts
+*   [0180-2023-12-01.md](./0180-2023-12-01.md): GFMPW-1 raybox-zero hardening
