@@ -188,3 +188,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0180-2023-12-01.md](./0180-2023-12-01.md): GFMPW-1 raybox-zero hardening
 *   [0181-2023-12-02.md](./0181-2023-12-02.md): Getting algofoogle-multi-caravel up to efabless
 *   [0182-2023-12-03.md](./0182-2023-12-03.md): GFMPW-1: Trying to fix UPW harden for gf180-rbz-fsm
+*   [0183-2023-12-04.md](./0183-2023-12-04.md): Continue trying to fix rbz-fsm harden for GF180
