@@ -190,4 +190,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0182-2023-12-03.md](./0182-2023-12-03.md): GFMPW-1: Trying to fix UPW harden for gf180-rbz-fsm
 *   [0183-2023-12-04.md](./0183-2023-12-04.md): Continue trying to fix rbz-fsm harden for GF180
 *   [0184-2023-12-05.md](./0184-2023-12-05.md): First rough success hardening raybox-zero-fsm/UPW
-*   [0185-2023-12-06.md](./0185-2023-12-06.md): Notes on sharing the GFMPW-1 submission
+*   [0185-2023-12-06.md](./0185-2023-12-06.md): Mux for GFMPW-1 group submission
