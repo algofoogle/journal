@@ -192,3 +192,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0184-2023-12-05.md](./0184-2023-12-05.md): First rough success hardening raybox-zero-fsm/UPW
 *   [0185-2023-12-06.md](./0185-2023-12-06.md): Mux for GFMPW-1 group submission
 *   [0186-2023-12-08.md](./0186-2023-12-08.md): Improving GFMPW-1 muti-project mux and layout
+*   [0187-2023-12-09.md](./0187-2023-12-09.md): 
