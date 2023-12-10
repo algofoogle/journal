@@ -194,3 +194,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0186-2023-12-08.md](./0186-2023-12-08.md): Improving GFMPW-1 muti-project mux and layout
 *   [0187-2023-12-09.md](./0187-2023-12-09.md): GFMPW-1 mux and group plan
 *   [0188-2023-12-10.md](./0188-2023-12-10.md): GFMPW-1 Finalisation plan for today
+*   [0189-2023-12-11.md](./0189-2023-12-11.md): 
