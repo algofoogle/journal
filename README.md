@@ -196,3 +196,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0188-2023-12-10.md](./0188-2023-12-10.md): GFMPW-1 Finalisation plan for today
 *   [0189-2023-12-11.md](./0189-2023-12-11.md): GFMPW-1 finalisation
 *   [0190-2023-12-21.md](./0190-2023-12-21.md): 
+*   [0191-2024-01-17.md](./0191-2024-01-17.md): 
