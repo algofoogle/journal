@@ -198,3 +198,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0190-2024-01-17.md](./0190-2024-01-17.md): PCB assembly with JLC PCB
 *   [0191-2024-01-31.md](./0191-2024-01-31.md): Soldering QFNs and GFMPW0 bring-up
 *   [0192-2024-02-02.md](./0192-2024-02-02.md): More GFMPW0 bringup prep and other notes
+*   [0193-2024-02-03.md](./0193-2024-02-03.md): GFMPW0 smoke test
