@@ -200,3 +200,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0192-2024-02-02.md](./0192-2024-02-02.md): More GFMPW0 bringup prep and other notes
 *   [0193-2024-02-03.md](./0193-2024-02-03.md): GFMPW0 smoke test
 *   [0194-2024-02-05.md](./0194-2024-02-05.md): Getting TT03p5 ready for demo
+*   [0195-2024-03-23.md](./0195-2024-03-23.md): Coming back to life (mostly about a new MPW9 VM)
