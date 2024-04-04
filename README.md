@@ -204,4 +204,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0196-2024-03-30.md](./0196-2024-03-30.md): TT04 raybox-zero test prep
 *   [0197-2024-04-02.md](./0197-2024-04-02.md): Diagnosing tt04-raybox-zero ASIC malfunction
 *   [0198-2024-04-03.md](./0198-2024-04-03.md): TT04 bug GL sim; fix VBox VT-x; analog stuff
-*   [0199-2024-04-04.md](./0199-2024-04-04.md): 
+*   [0199-2024-04-04.md](./0199-2024-04-04.md): Quick update: sky130 and Tiny Tapeout analog design
