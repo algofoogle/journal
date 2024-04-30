@@ -195,6 +195,9 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0187-2023-12-09.md](./0187-2023-12-09.md): GFMPW-1 mux and group plan
 *   [0188-2023-12-10.md](./0188-2023-12-10.md): GFMPW-1 Finalisation plan for today
 *   [0189-2023-12-11.md](./0189-2023-12-11.md): GFMPW-1 finalisation
+
+## 2024
+
 *   [0190-2024-01-17.md](./0190-2024-01-17.md): PCB assembly with JLC PCB
 *   [0191-2024-01-31.md](./0191-2024-01-31.md): Soldering QFNs and GFMPW0 bring-up
 *   [0192-2024-02-02.md](./0192-2024-02-02.md): More GFMPW0 bringup prep and other notes
@@ -205,4 +208,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0197-2024-04-02.md](./0197-2024-04-02.md): Diagnosing tt04-raybox-zero ASIC malfunction
 *   [0198-2024-04-03.md](./0198-2024-04-03.md): TT04 bug GL sim; fix VBox VT-x; analog stuff
 *   [0199-2024-04-04.md](./0199-2024-04-04.md): Quick update: sky130 and Tiny Tapeout analog design
-*   [0200-2024-04-05.md](./0200-2024-04-05.md): 
+*   [0200-2024-04-05.md](./0200-2024-05-01.md): Belated update (TT chips, and analog)
