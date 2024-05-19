@@ -66,6 +66,9 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 
 ## 2023
 
+<details>
+<summary>Click to open:</summary>
+
 *   [0061-2023-04-16.md](./0061-2023-04-16.md): ASIC stuff with a focus on ray casting.
 *   [0062-2023-04-17.md](./0062-2023-04-17.md): Fiddling with Raybox ideas.
 *   [0063-2023-04-18.md](./0063-2023-04-18.md): Mostly notes about Verilog division and reciprocals.
@@ -195,6 +198,7 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0187-2023-12-09.md](./0187-2023-12-09.md): GFMPW-1 mux and group plan
 *   [0188-2023-12-10.md](./0188-2023-12-10.md): GFMPW-1 Finalisation plan for today
 *   [0189-2023-12-11.md](./0189-2023-12-11.md): GFMPW-1 finalisation
+</details>
 
 ## 2024
 
@@ -210,4 +214,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0199-2024-04-04.md](./0199-2024-04-04.md): Quick update: sky130 and Tiny Tapeout analog design
 *   [0200-2024-04-05.md](./0200-2024-05-01.md): Belated update (TT chips, and analog)
 *   [0201-2024-05-11.md](./0201-2024-05-11.md): Warming up for TT07 (tt-vga-fun)
-*   [0202-2024-05-15.md](./0202-2024-05-15.md): 
+*   [0202-2024-05-15.md](./0202-2024-05-15.md): Full layout simulation of tt06-grab-bag
