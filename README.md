@@ -216,3 +216,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0201-2024-05-11.md](./0201-2024-05-11.md): Warming up for TT07 (tt-vga-fun)
 *   [0202-2024-05-15.md](./0202-2024-05-15.md): Full layout simulation of tt06-grab-bag
 *   [0203-2024-05-20.md](./0203-2024-05-20.md): ngspice full-circuit simulation results and improvements
+*   [0204-2024-05-25.md](./0204-2024-05-25.md): 
