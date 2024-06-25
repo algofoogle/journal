@@ -217,4 +217,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0202-2024-05-15.md](./0202-2024-05-15.md): Full layout simulation of tt06-grab-bag
 *   [0203-2024-05-20.md](./0203-2024-05-20.md): ngspice full-circuit simulation results and improvements
 *   [0204-2024-05-25.md](./0204-2024-05-25.md): Prep resubmission of TT04's raybox-zero to TT07
-*   [0205-2024-05-30.md](./0205-2024-05-30.md): 
+*   [0205-2024-05-30.md](./0205-2024-05-30.md): Very rough mixed notes about TT07 and starting TT04 testing
