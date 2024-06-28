@@ -219,3 +219,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0204-2024-05-25.md](./0204-2024-05-25.md): Prep resubmission of TT04's raybox-zero to TT07
 *   [0205-2024-05-30.md](./0205-2024-05-30.md): Very rough mixed notes about TT07 and starting TT04 testing
 *   [0206-2024-06-26.md](./0206-2024-06-26.md): Trying out Efabless eval board and generic Caravel chip
+*   [0207-2024-06-28.md](./0207-2024-06-28.md): Testing Caravel chips with HKDebug and the Efabless Eval board
