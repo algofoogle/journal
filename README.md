@@ -226,3 +226,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0211-2024-08-09.md](./0211-2024-08-09.md): Start tt08-vga-fun repo
 *   [0212-2024-08-11.md](./0212-2024-08-11.md): Creating layout for tt08-vga-fun's CSDAC
 *   [0213-2024-08-16.md](./0213-2024-08-16.md): Completed csdac_nom initial layout for tt08-vga-fun
+*   [0214-2024-08-17.md](./0214-2024-08-17.md): 
