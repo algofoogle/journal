@@ -224,4 +224,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0209-2024-07-23.md](./0209-2024-07-23.md): Review original binary-weighted current-switching DAC
 *   [0210-2024-08-09.md](./0210-2024-08-09.md): Current steering DAC experiments
 *   [0211-2024-08-09.md](./0211-2024-08-09.md): Start tt08-vga-fun repo
-*   [0212-2024-08-11.md](./0212-2024-08-11.md): 
+*   [0212-2024-08-11.md](./0212-2024-08-11.md): Creating layout for tt08-vga-fun's CSDAC
