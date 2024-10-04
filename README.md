@@ -228,4 +228,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0213-2024-08-16.md](./0213-2024-08-16.md): Completed csdac_nom initial layout for tt08-vga-fun
 *   [0214-2024-08-17.md](./0214-2024-08-17.md): Integrating digital and analog blocks in tt08-vga-fun
 *   [0215-2024-08-21.md](./0215-2024-08-21.md): New 3x DAC layout and simulation for tt08-vga-fun
-*   [0216-2024-08-23.md](./0216-2024-08-23.md): 
+*   [0216-2024-08-23.md](./0216-2024-08-23.md): Notes for tt08-vga-fun finalisation inc. segmented CSDAC
