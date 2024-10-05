@@ -229,3 +229,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0214-2024-08-17.md](./0214-2024-08-17.md): Integrating digital and analog blocks in tt08-vga-fun
 *   [0215-2024-08-21.md](./0215-2024-08-21.md): New 3x DAC layout and simulation for tt08-vga-fun
 *   [0216-2024-08-23.md](./0216-2024-08-23.md): Notes for tt08-vga-fun finalisation inc. segmented CSDAC
+*   [0217-2024-09-29.md](./0217-2024-09-29.md): Notes on CI2311 and GFMPW-1 versions of raybox-zero
