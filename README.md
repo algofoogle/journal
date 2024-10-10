@@ -234,3 +234,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0216-2024-08-23.md](./0216-2024-08-23.md): Notes for tt08-vga-fun finalisation inc. segmented CSDAC
 *   [0217-2024-09-29.md](./0217-2024-09-29.md): Notes on CI2311 and GFMPW-1 versions of raybox-zero
 *   [0218-2024-10-05.md](./0218-2024-10-05.md): GFMPW-1 basic bring-up
+*   [0219-2024-10-07.md](./0219-2024-10-07.md): GFMPW-1 bring-up (continued)
