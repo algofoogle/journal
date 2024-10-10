@@ -47,6 +47,9 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0033-2020-06-21.md](./0033-2020-06-21.md): Quick note about starting a Pong-like design.
 *   [0034-2020-06-22.md](./0034-2020-06-22.md): Basic VGA output working from by XC9572XL CPLD board.
 *   ...TBC...
+*   [0046-2020-07-22.md](./0046-2020-07-22.md): Starting CPLD t09a
+*   [0047-2020-07-25.md](./0047-2020-07-25.md): CPLD t09a: VGA image from ROM plug-in board
+*   [0048-2020-07-29.md](./0048-2020-07-29.md): CPLD t09c rough notes
 *   [0049-2020-08-02.md](./0049-2020-08-02.md): CPLD t09d: ROM-based tile map VGA renderer.
 *   [0050-2020-08-03.md](./0050-2020-08-03.md): Verilator and vgasim.
 *   [0051-2020-08-04.md](./0051-2020-08-04.md): More Verilator: Register initialisation/randomisation.
