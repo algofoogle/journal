@@ -237,4 +237,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0219-2024-10-07.md](./0219-2024-10-07.md): GFMPW-1 bring-up (continued)
 *   [0220-2024-10-11.md](./0220-2024-10-11.md): Raybox-zero running on GFMPW-1
 *   [0221-2024-10-11.md](./0221-2024-10-11.md): Quick first attempt at TTIHP0p2
-*   [0222-2024-10-19.md](./0222-2024-10-19.md): 
+*   [0222-2024-11-11.md](./0222-2024-11-11.md): Belated update for TTIHP0p2 and TT09 submissions
