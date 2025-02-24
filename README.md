@@ -242,3 +242,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0224-2024-12-05.md](./0224-2024-12-05.md): Rough notes for RBZ and TT06 Analog VGA testing prep
 *   [0225-2025-01-12.md](./0225-2025-01-12.md): Initial tt06-grab-bag Analog VGA bring-up
 *   [0226-2025-02-20.md](./0226-2025-02-20.md): tt06-grab-bag Analog VGA works!
+*   [0227-2025-02-25.md](./0227-2025-02-25.md): 
