@@ -240,6 +240,10 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0222-2024-11-11.md](./0222-2024-11-11.md): Belated update for TTIHP0p2 and TT09 submissions
 *   [0223-2024-11-12.md](./0223-2024-11-12.md): Ideas for future raybox-zero versions, inc. pinout changes
 *   [0224-2024-12-05.md](./0224-2024-12-05.md): Rough notes for RBZ and TT06 Analog VGA testing prep
+
+## 2025
+
 *   [0225-2025-01-12.md](./0225-2025-01-12.md): Initial tt06-grab-bag Analog VGA bring-up
 *   [0226-2025-02-20.md](./0226-2025-02-20.md): tt06-grab-bag Analog VGA works!
-*   [0227-2025-02-25.md](./0227-2025-02-25.md): 
+*   [0227-2025-02-25.md](./0227-2025-02-25.md): Efabless shutdown and old notes for TT10 local hardening
+*   [0228-2025-03-27.md](./0228-2025-03-27.md): Testing some Tiny Tapeout 7 projects
