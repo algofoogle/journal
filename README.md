@@ -247,3 +247,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0226-2025-02-20.md](./0226-2025-02-20.md): tt06-grab-bag Analog VGA works!
 *   [0227-2025-02-25.md](./0227-2025-02-25.md): Efabless shutdown and old notes for TT10 local hardening
 *   [0228-2025-03-27.md](./0228-2025-03-27.md): Testing some Tiny Tapeout 7 projects
+*   [0229-2025-04-01.md](./0229-2025-04-01.md): tt07-raybox-zero testing (with textures)
