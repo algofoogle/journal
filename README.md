@@ -250,4 +250,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0229-2025-04-01.md](./0229-2025-04-01.md): tt07-raybox-zero testing (with textures)
 *   [0230-2025-04-09.md](./0230-2025-04-09.md): More tt07-raybox-zero testing
 *   [0231-2025-04-11.md](./0231-2025-04-11.md): TT06 auto demo; IHP "Antonalog" DAC & ring osc DAC + sim; TTCAD25a & RBZ update notes
-
+*   [0232-2025-09-28.md](./0232-2025-09-28.md): Tiny Tapeouts from June to September
