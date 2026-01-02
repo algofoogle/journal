@@ -252,3 +252,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0231-2025-04-11.md](./0231-2025-04-11.md): TT06 auto demo; IHP "Antonalog" DAC & ring osc DAC + sim; TTCAD25a & RBZ update notes
 *   [0232-2025-09-28.md](./0232-2025-09-28.md): Tiny Tapeouts from June to September
 *   [0233-2025-09-28.md](./0233-2025-09-28.md): ttsky25a-vga-matrix-dac
+*   [0234-2025-11-11.md](./0234-2025-11-11.md): ttsky25b-vga-matrix-dac (revisited)
