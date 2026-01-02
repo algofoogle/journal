@@ -253,3 +253,4 @@ Create a new article with `make` or `make new` (same). Ensure this README is upd
 *   [0232-2025-09-28.md](./0232-2025-09-28.md): Tiny Tapeouts from June to September
 *   [0233-2025-09-28.md](./0233-2025-09-28.md): ttsky25a-vga-matrix-dac
 *   [0234-2025-11-11.md](./0234-2025-11-11.md): ttsky25b-vga-matrix-dac (revisited)
+*   [0235-2025-11-25.md](./0235-2025-11-25.md): ttgf0p2 submissions
